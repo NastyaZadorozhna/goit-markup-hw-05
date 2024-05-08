@@ -78,10 +78,10 @@ color: #434455;
     background: #2e2f42;
 }
 
-.page-container{
+.page-container{/*
     min-height: 100vh;
     display: flex;
-    flex-direction: column;
+    flex-direction: column;*/
 }
 
 .main{
@@ -92,6 +92,7 @@ color: #434455;
 .page-header-container{
     display: flex;
     justify-content: space-between;
+    align-items: baseline;
 }
 
 .page-header{
@@ -117,6 +118,7 @@ color: #434455;
 
 .page-address-link{
     display: flex;
+    justify-content: space-between;
     gap: 40px;
 }
 .page-address{
