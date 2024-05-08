@@ -693,6 +693,11 @@ width: 264px;
    width: 360px;
    height: 120px;
    resize: none;
+   font-size: 12px;
+   line-height: 1.17;
+   letter-spacing: 0.04em;
+   color: rgba(46, 47, 66, 0.4);
+   border: 1px solid rgba(46, 47, 66, 0.4);
    background-color: transparent;
    outline: transparent; 
    padding: 8px 16px;
@@ -704,21 +709,13 @@ width: 264px;
     outline: transparent;
 }
 
-.review-message::placeholder{
-    font-weight: 400;
-    font-size: 12px;
-    line-height: 1.17;
-    letter-spacing: 0.04em;
-    color: rgba(46, 47, 66, 0.4);
-}
-
 .review-checkbox-wrapper{
     margin-bottom: 24px;
 }
 .review-checkbox-label{
     font-size: 12px;
     line-height: 1.17;
-    line-height: 1.16667;
+    line-height: 1.17;
     letter-spacing: 0.04em;
     color: #8e8f99;
 }
