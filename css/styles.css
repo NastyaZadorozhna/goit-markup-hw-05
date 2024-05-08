@@ -492,6 +492,11 @@ width: 264px;
   background-color: #31d0aa;
 }
 
+.social-link.footer-link:hover,
+.social-link.footer-link:focus {
+  background-color: #31d0aa;
+}
+
 .form-title {
     margin-bottom: 16px;
     font-weight: 500;
