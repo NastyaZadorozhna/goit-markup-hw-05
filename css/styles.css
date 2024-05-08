@@ -680,9 +680,13 @@ width: 264px;
 }
 
 .modal-form-container{
-    margin-bottom: 16px;
+    margin-bottom: 8px;
    }
 
+   .modal-form-texterea{
+    margin-bottom: 16px;
+   }
+   
 .review-message{
    border: 1px solid rgba(46, 47, 66, 0.4);
    border-radius: 4px;
