@@ -715,7 +715,6 @@ width: 264px;
 .review-checkbox-label{
     font-size: 12px;
     line-height: 1.17;
-    line-height: 1.17;
     letter-spacing: 0.04em;
     color: #8e8f99;
 }
@@ -745,7 +744,7 @@ width: 264px;
 }
 
 .privacy-link{
-    line-height: 1.33333;
+    line-height: 1.33;
     text-decoration: underline;
     text-decoration-skip-ink: none;
     color: #4d5ae5;
